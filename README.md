@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gabriel-Gianvechio
-- 👀 I’m interested in Puppet, Docker, and Confluence.
-- 🌱 I’m currently learning ReactJS, Docker, and NodeJS.
+- 👀 I’m interested in Jenkins, Zabbix, Grafana, ELK.
+- 🌱 I’m currently learning Python, Docker, and NodeJS.
 - 💞️ I’m looking to collaborate on a project where I can learn more about full-stack tools and DevOps.
