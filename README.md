@@ -1,4 +1,12 @@
-- 👋 Hi, I’m Gabriel Gianvechio.
-- 👀 I’m interested in Cloud and DevOps.
-- 🌱 I’m currently learning pipelines CI/CD and tools like Grafana, Prometheus, and Terraform.
-- 💞️ I’m looking to collaborate on a project where I can learn more about DevOps, SRE and Cloud.
+👋 Hi, I’m Gabriel Gianvechio
+
+🤖 AI Engineer focused on LLM systems, RAG, and autonomous agents
+
+🔧 I build real-world AI applications using API integrations, webhooks, and workflow automation
+
+⚙️ Experience with:
+- LLM systems (RAG, agents, MCP)
+- Backend development and databases
+- Docker and CI/CD
+- 
+🚀 Currently focused on building scalable AI-driven systems
